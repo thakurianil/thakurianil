@@ -33,9 +33,7 @@ By embracing new technologies and continuously improving my skills, I aim to dev
 
 - 🔭 I’m currently working on this page. 
 
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurianil)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

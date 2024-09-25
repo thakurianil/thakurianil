@@ -36,17 +36,3 @@ By embracing new technologies and continuously improving my skills, I aim to dev
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakurianil)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
-
-  </div>
-
-  ### Codeforces
-  <div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourUsername)
-
-  </div>

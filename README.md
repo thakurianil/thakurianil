@@ -1,7 +1,7 @@
 # 👋 Hi there, My name is Anil Khand
 
 
-Anil Khand is a Software Engineer, with 4 years of software engineering experience and a Master of Information Technology from Central Queensland University. He has expertise in developing scalable web applications using frameworks like React, Angular, and Vue.js, alongside building RESTful APIs and microservices with Node.js.
+Anil Khand is a Software Engineer, with 5 years of software engineering experience and a Master of Information Technology from Central Queensland University. He has expertise in developing scalable web applications using frameworks like React, Angular, and Vue.js, alongside building RESTful APIs and microservices with Node.js.
 
 Anil is skilled in database management (MongoDB), GraphQL for efficient data queries, and application performance optimization. His backend development experience includes PHP, SQL, and JavaScript, with a focus on secure authentication (OAuth 2.0, JWT) and testing using tools like Jest and Cypress.
 
